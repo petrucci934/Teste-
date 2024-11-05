@@ -8,34 +8,35 @@
 ---
 
 ## Resumo Profissional
-Desenvolvedor Web com sÃ³lida experiÃªncia em desenvolvimento e manutenÃ§Ã£o de sistemas web. Atuo na criaÃ§Ã£o de layouts responsivos, integraÃ§Ãµes com APIs e serviÃ§os externos, sempre com foco em soluÃ§Ãµes robustas e eficazes. Com formaÃ§Ã£o em AnÃ¡lise e Desenvolvimento de Sistemas e especializaÃ§Ã£o em Backend pela Cubos Academy, sou capacitado em tecnologias de banco de dados como SQL Server e MySQL, alÃ©m de HTML5, CSS e JavaScript para construÃ§Ã£o e manutenÃ§Ã£o de sites dinÃ¢micos. 
+Desenvolvedor Web com sólida experiência em desenvolvimento e manutenção de sistemas web. Atuo na criação de layouts responsivos, integrações com APIs e serviços externos, sempre com foco em soluções robustas e eficazes. Com formação em Análise e Desenvolvimento de Sistemas e especialização em Backend pela Cubos Academy, sou capacitado em tecnologias de banco de dados como SQL Server e MySQL, além de HTML5, CSS e JavaScript para construção e manutenção de sites dinâmicos.
 
-## FormaÃ§Ã£o AcadÃªmica
-- **TecnÃ³logo em AnÃ¡lise e Desenvolvimento de Sistemas**  
-  Universidade Cruzeiro do Sul
+## Formação Acadêmica
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas
+Universidade Cruzeiro do Sul
 - **Desenvolvimento de Sistemas com foco em Backend**  
   Cubos Academy
 
-## ExperiÃªncia Profissional
+## Experiência Profissional
 
 **Dev System Desenvolvimento de Software**  
 *Desenvolvedor Web* | 2022 - Presente  
-- Desenvolvimento e manutenÃ§Ã£o de sistemas, incluindo a implementaÃ§Ã£o de layouts responsivos.
-- CoordenaÃ§Ã£o de equipe de campo e realizaÃ§Ã£o de manutenÃ§Ãµes preventivas e corretivas em redes lÃ³gicas.
-- Melhoria de redes de computadores utilizando ferramentas especÃ­ficas, garantindo a eficiÃªncia e continuidade dos sistemas.
+- Desenvolvimento e manutenção de sistemas, incluindo a implementação de layouts responsivos.
+- Coordenação de equipe de campo e realização de manutenções preventivas e corretivas em redes lógicas.
+- Melhoria de redes de computadores utilizando ferramentas específicas, garantindo a eficiência e continuidade dos sistemas.
 
-**PLC Prestadora de ServiÃ§os Ltda**  
+**PLC Prestadora de Serviços Ltda**  
 *Coordenador de Equipe* | 2007 - 2011  
-- GestÃ£o de equipe em campo e execuÃ§Ã£o de manutenÃ§Ãµes em redes elÃ©tricas e lÃ³gicas, seguindo as normas ABNT.
-- ImplementaÃ§Ã£o de melhorias em infraestrutura, assegurando a seguranÃ§a e conformidade dos serviÃ§os prestados.
+- Gestão de equipe em campo e execução de manutenções em redes elétricas e lógicas, seguindo as normas ABNT.
+- Implementação de melhorias em infraestrutura, assegurando a segurança e conformidade dos serviços prestados.
 
+  
 ## Idiomas
-- InglÃªs - BÃ¡sico/IntermediÃ¡rio
+- Inglês - Ténico
 
-## FormaÃ§Ã£o Complementar
-- **Curso de TÃ©cnicas de InvasÃ£o** | TDI-TÃ©cnicas de InvasÃ£o com Bruno Fraga
+## Formação Complementar
+- **Curso de Técnicas de Invasão | TDI-Técnicas de Invasão com Bruno Fraga
 - **Desenvolvimento de Software com foco em Backend** | Cubos Academy - 500h
-- **Iniciante em ProgramaÃ§Ã£o** | Alura - 54h
+- **Iniciante em Programação | Alura - 54h
 - Cursos em **Python**, **SaaS**, **Web Scraping** e **Desenvolvimento de Bots**
 - Bibliotecas: Django, Flask
 - Bancos de Dados: SQL Server, SQLite3, PostgreSQL
